@@ -9,28 +9,6 @@ header {
 	font-weight: bold;
 	font-size: 1.5em;
 }
-.top-menu ul{
-	margin-bottom: 0px;
-	margin-top: 0px;
-	border-left: 2px solid black;
-	border-right: 2px solid black;
-	padding-left: 0px;
-}
-.top-menu li {
-    display: inline-block;
-    padding-left: 1.6em;
-    padding-right: 1.65em;
-    border-left: 2px solid black;
-    border-right: 2px solid black;
-    margin-left: -.2em;
-    margin-right: -.2em;
-}
-.list-name {
-	font-size: 1.2em;
-	padding-bottom: .5em;
-	padding-top: .5em;
-	border: 2px solid black;
-}
 .add-new-item {
 	border-right: 2px solid black;
     border-left: 2px solid black;
@@ -49,7 +27,7 @@ select.remove-item {
 .shopping-list {
 	float: left;
 	width: 330px;
-	height: 250px;
+	height: 400px;
 	text-align: left;
 	border: 2px solid black;
 	padding-left: 1em;
