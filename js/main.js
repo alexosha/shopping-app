@@ -6,7 +6,7 @@ $(document).ready(function(){
     
      });
 	$('ul').on('click', 'li', function(event){
-  $("li").toggleClass("strike-through");
+  $(this).toggleClass("strike-through");
 });
 });
 // <label><input type="checkbox" value="None" id="squaredTwo" name="check" />
