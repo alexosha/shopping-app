@@ -13,8 +13,3 @@ $(document).ready(function(){
 
 	});
 });
-// <label><input type="checkbox" value="None" id="squaredTwo" name="check" />
-//</label>
-//$("li").click(function(){
-	//	$("li").toggleClass("strike-through");
-	//});
